@@ -26,7 +26,7 @@ int isStrongNumber(int num){
 
 int main(){
     int iNum;
-    printf("Enter a number: ");
+    printf("Enter a Positive Number: ");
     scanf("%d", &iNum);
 
     if (isStrongNumber(iNum))
